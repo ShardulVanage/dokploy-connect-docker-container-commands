@@ -1,5 +1,8 @@
 # dokploy-connect-docker-container-commands
 
+1️⃣ to indpect netwrok
+
+docker inspect dokploy-network
 # 1️⃣ Connect your PocketBase container to the Dokploy network
 docker network connect dokploy-network testing-pocketbase-pocketbase-gzqzhm-pocketbase-1
 
